@@ -6,6 +6,7 @@ public class Alumno {
 	private int dn1;
     private String apellido;
 	private String lugarnacimiento;
+	private double promedionotas;
 	public Alumno() {
 		// TODO Auto-generated constructor stub
 	}
