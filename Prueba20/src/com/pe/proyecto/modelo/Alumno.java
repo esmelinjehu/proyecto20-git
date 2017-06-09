@@ -5,6 +5,7 @@ public class Alumno {
 
 	private int dn1;
     private String apellido;
+	private String lugarnacimiento;
 	public Alumno() {
 		// TODO Auto-generated constructor stub
 	}
