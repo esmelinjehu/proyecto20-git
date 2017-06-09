@@ -27,4 +27,13 @@ public class Alumno {
 		this.dn1 = dn1;
 	}
 
+	public double getPromedionotas() {
+		return promedionotas;
+	}
+
+	public void setPromedionotas(double promedionotas) {
+		this.promedionotas = promedionotas;
+	}
+	
+
 }
